@@ -70,4 +70,14 @@ Everything runs locally. Local-first is a values statement built into the infras
 
 ---
 
+## On AI Use
+
+I use Claude as a coding collaborator. The architecture, the ideas, the intellectual direction — mine. The implementation — written with AI assistance under my direction.
+
+I think this is worth being direct about. Every engineer I respect uses AI for implementation now. The question that actually matters is whether the person directing it understands what they're building and why. I do. I can explain every design decision in these systems, every tradeoff, every place where the approach is novel.
+
+The other thing worth saying: building tools that analyze AI outputs, verify AI claims, and detect epistemic drift in AI-generated content — while using AI to build them — is not a contradiction. It's the point.
+
+---
+
 *Building in public. These three tools are the beginning.*
